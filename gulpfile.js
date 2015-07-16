@@ -2,7 +2,8 @@
 
 var gulp = require('gulp');
 var gutil = require('gulp-util');
-var del = require('del');
+var del = require('del')
+var jquery = require('jquery')
 
 // Add your require statements and gulp tasks here
 

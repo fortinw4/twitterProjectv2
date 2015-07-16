@@ -1,6 +1,3 @@
-
-
-
 $(function(){
 
 var stringTweet = $('#template-tweet').html()
@@ -61,3 +58,29 @@ $('main').on('submit', 'form', function(e) {
 
 })
 
+///
+
+// var getPosts = $.get('http://jsonplaceholder.typicode.com/posts')
+// 	.done(function (posts) {
+// 		console.log('got some posts', posts)
+// 	})
+	
+// 	getPosts.done(function () {
+// 		console.log('done again', posts)
+// })
+
+// }, 2000)
+
+
+
+
+
+// var newPost = $.get('http://jsonplaceholder.typicode.com/posts')
+
+// newPost.done(function() {
+// 	console.log('new post!')
+// })
+
+// newPost.done(function() {
+// 	console.log('another new post!')
+// })
