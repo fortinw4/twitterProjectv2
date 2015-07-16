@@ -6,8 +6,6 @@ var del = require('del');
 
 // Add your require statements and gulp tasks here
 
-
-
 //
 
 // Browserify

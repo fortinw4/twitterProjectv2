@@ -3,12 +3,6 @@
 
 $(function(){
 
-var User = {
-	handle: '@bradwestfall',
-	img: 'brad.png'
-}
-
-
 var stringTweet = $('#template-tweet').html()
 var templateTweet = Handlebars.compile(stringTweet)
 
